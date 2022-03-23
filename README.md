@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # SOBRE
-Nesse projeto foi utilizado técnicas e tecnologias para o [pré-processamento de dados][link_preprocessing] e depois para o desenvolvimento de uma [máquina preditiva][link_machine] que pudesse diagnósticar se o paciente estava doente.
+Nesse projeto foi utilizado técnicas e tecnologias para o [pré-processamento dos dados][link_preprocessing] e depois para o desenvolvimento de uma [máquina preditiva][link_machine] que pudesse diagnósticar se o paciente estava doente.
 E por fim foi realizado o [teste deste modelo][link_test_model] para verificar a real eficiência do modelo, que ficou na média de 94%.
 ****
 #### TECNOLOGIAS UTILIZADAS:
